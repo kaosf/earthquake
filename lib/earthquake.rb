@@ -4,9 +4,9 @@
   readline
   date
   active_support/dependencies/autoload
-  active_support/core_ext
   active_support/dependencies
   active_support/cache
+  active_support/core_ext
   twitter/json_stream
   notify
   ap
